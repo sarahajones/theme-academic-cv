@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Research Scientist
+role: Associate Research Scientist (Psychological & Behavioural Sciences)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
