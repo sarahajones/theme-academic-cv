@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Sarah Ashcroft-Jones, PhD
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sarah
+last_name: Ashcroft-Jones
 
 # Status emoji
 status:
@@ -20,42 +17,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Associate Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Columbia University Mailman School of PUblic Health 
+    url: https://www.publichealth.columbia.edu/academics/departments/health-policy-management/
+  - name: Junior Researcher Programme
+    url: https://jrp.pscholars.org/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sarah.ashcroft-jones@columbia.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/bsky
+    url: https://bsky.app/profile/sarahaj95.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sarahajones
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sarah-ashcroft-jones-phd-00ab02124/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=CPplYAMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-8614-9310
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Decision making
+  - Behavioural interventions
+  - Open science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Experimental Psychology
+    institution: Oxford University
+    date_start: 2019-10-01
+    date_end: 2023-10-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
