@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Research Scientist (Psychological & Behavioural Sciences)
+role: Associate Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -134,9 +134,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
 
 # Awards.
@@ -173,4 +173,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sarah Ashcroft-Jones is a researcher of the psychological and behavioural sciences at the Columbia University Mailman School of Public Health. Her research interests include decision making, categorisation, and cognitive biases. Her current work focuses on understanding the individual and structural factors that influence financial and health behaviours. She leads the Junior Researcher Programme, which develops opportunities for early career researchers in the psychological and behavioural sciences.     
