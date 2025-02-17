@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I like to ask questions.
         
-        Please reach out to collaborate 😃
+        I am a research scientist at Columbia University Mailman School of Public Health.  My work focuses on understanding the individual and structural factors that influence financial and health behaviours. Alongside my research, I act as an educator, a research consultant, and an educational consultant. I also volunteer my time as the Executive Director of the JRP.  
+        
+        My current active research projects range from the computational modelling of confidence in decision-making to testing real-time interventions on vaccine uptake and financial behaviours. I am an advocate of Open Science practices.
     design:
       columns: '1'
   - block: collection
