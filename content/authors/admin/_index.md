@@ -23,8 +23,6 @@ role: Associate Research Scientist (Psychological & Behavioural Sciences)
 organizations:
   - name: Columbia University Mailman School of PUblic Health 
     url: https://www.publichealth.columbia.edu/academics/departments/health-policy-management/
-  - name: Junior Researcher Programme
-    url: https://jrp.pscholars.org/
 
 
 # Social network links
@@ -33,8 +31,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sarah.ashcroft-jones@columbia.edu
     label: E-mail Me
-  - icon: brands/bsky
-    url: https://bsky.app/profile/sarahaj95.bsky.social
   - icon: brands/github
     url: https://github.com/sarahajones
   - icon: brands/linkedin
