@@ -1,0 +1,50 @@
+name: Deploy pages
+on:
+  push:
+    # This needs to be replaced with the branch you want to deploy from if you use a non-standard name
+    branches: main
+  workflow_dispatch:
+
+jobs:
+  hugo:
+    runs-on: ubuntu-latest
+    steps:
+      # Required for checking out the repo
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      # Required for setting up hugo; if you use a different site generator, this needs to be changed.
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+      # This step generates the site. By default, hugo dumps it into the `<working directory>/public` directory,
+      # a fact we'll be taking advantage of in a later step.
+      - name: Run hugo
+        shell: bash
+        run: |
+          mkdir public 
+          hugo --minify
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
