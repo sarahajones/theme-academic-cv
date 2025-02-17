@@ -8,7 +8,7 @@ last_name: Ashcroft-Jones
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,40 +51,40 @@ education:
     date_start: 2019-10-01
     date_end: 2023-10-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on metacognitive decision confidence in categorisation tasks. Supervised by [Prof Nick Yeung](https://www.oxacclab.org/). 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Lab website'
+      url: 'https://www.oxacclab.org/'
   - area: MSc in Psychological Research Methods
     institution: Oxford University
     date_start: 2018-10-01
     date_end: 2019-09-30
     summary: |
-      GPA: 3.8/4.0
+      St. Cross College
+      Humphrey Prize for Best Research Dissertation
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - MatLab, Advanced Statistics, Research Design, Research Methods. 
   - area: MA in Psychological and Behavioural Sciences
     institution: Cambridge University 
     date_start: 2014-10-01
     date_end: 2017-06-30
     summary: |
-      GPA: 3.4/4.0
+      The Cambridge Double First
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Statistics, Experimental Psychology, Gender, Family, Biological Anthropology.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Associate Research Scientist
+    company_name: Columbia University Mailman School of Public Health
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-11-15
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Researching the individual and structural factors that influence financial and health behaviours.
+      - Responsibilities include research design, quantitative analytics, and statistical programming.
+      - Working with community health stakeholders, policy advisors, and interdisciplinary research groups.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -161,16 +161,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
 
 ## About Me
 
-Sarah Ashcroft-Jones is a researcher of the psychological and behavioural sciences at the Columbia University Mailman School of Public Health. Her research interests include decision making, categorisation, and cognitive biases. Her current work focuses on understanding the individual and structural factors that influence financial and health behaviours. She leads the Junior Researcher Programme, which develops opportunities for early career researchers in the psychological and behavioural sciences.     
+Sarah Ashcroft-Jones is a researcher of the psychological and behavioural sciences at the Columbia University Mailman School of Public Health. Her research interests include decision making, categorisation, and cognitive biases. Her current work focuses on understanding the individual and structural factors that influence financial and health behaviours. She leads the Junior Researcher Programme, which develops opportunities for early career researchers in the psychological and behavioural sciences. She likes to ask questions.    
