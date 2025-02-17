@@ -8,7 +8,7 @@ last_name: Ashcroft-Jones
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -86,16 +86,13 @@ work:
       - Responsibilities include research design, quantitative analytics, and statistical programming.
       - Working with community health stakeholders, policy advisors, and interdisciplinary research groups.
   - position: Backend Software Engineer
-    company_name: X
+    company_name: Junior Researcher Programme
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-07-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally. -  on impactful research themes with an emphasis on open and generalisable science.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
