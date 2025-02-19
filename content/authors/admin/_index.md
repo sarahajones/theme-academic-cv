@@ -21,7 +21,7 @@ role: Associate Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Columbia University Mailman School of PUblic Health 
+  - name: Columbia University Mailman School of Public Health 
     url: https://www.publichealth.columbia.edu/academics/departments/health-policy-management/
 
 
@@ -42,6 +42,7 @@ profiles:
 
 interests:
   - Decision making
+  - Decision confidence
   - Behavioural interventions
   - Open science
 
@@ -55,7 +56,7 @@ education:
     button:
       text: 'Lab website'
       url: 'https://www.oxacclab.org/'
-  - area: MSc in Psychological Research Methods
+  - area: MSc in Psychological Research
     institution: Oxford University
     date_start: 2018-10-01
     date_end: 2019-09-30
@@ -85,14 +86,14 @@ work:
       - Researching the individual and structural factors that influence financial and health behaviours.
       - Responsibilities include research design, quantitative analytics, and statistical programming.
       - Working with community health stakeholders, policy advisors, and interdisciplinary research groups.
-  - position: Backend Software Engineer
+  - position: Executive Director
     company_name: Junior Researcher Programme
     company_url: ''
     company_logo: ''
     date_start: 2018-07-01
     date_end: ''
     summary: |
-      - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally. -  on impactful research themes with an emphasis on open and generalisable science.
+      - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally. - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -141,23 +142,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Advanced Scientific Programming in Python
+    url: https://aspp.school/start
+    date: '2024-08-25'
+    awarder: ASPP
+    summary: |
+      Learned a selection of advanced programming techniques and best practices which are standard in the industry, but especially tailored to the needs of a programming scientist. Topics included: Large-scale collaborative scientific code development with git and code forges, testing and debugging scientific code, scientific programming patterns in Python, and writing parallel applications in Python.
+  - title: Improving your Statistical Questions (and Inference)
+    url: https://www.coursera.org/learn/statistical-inferences
+    date: '2020-01-01'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      A pair of online courses designed to improve both inference and approach to statistical thinking. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
 ---
 
 ## About Me
