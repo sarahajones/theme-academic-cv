@@ -1,28 +1,27 @@
 ---
-title: Reproducible Data Processing and Analysis using R
-summary: Best practices for reproducibile analytics in R and Quarto
-date: 2025-03-01
+title: Intro to Python
+summary: Using Python for data analytics - beginner friendly
+date: 2024-09-01
 type: docs
 math: false
 tags:
-  - R
+  - Python
 image:
-  caption: 'Learning to code reproducibly'
+  caption: 'Learn to use Python for health data analytics and more'
 ---
 
-## Workshop Reproducible Coding Practices
-
-A beginner-friendly workshop on reproducible data processing and analysis, where you'll learn best practices for creating, documenting, and sharing your scripts that ensure computational reproducibility and adherence to open science principles. The primary goal of reproducible data processing and analysis is to enable others to independently replicate your results by using your code and data. However, reproducibility alone doesn't guarantee the correctness of your results.
-
-Therefore, this workshop will also cover techniques to validate your code using practices and testing methods to prevent and detect errors. Also, you'll learn how to track the provenance of any result, such as figures or tables, to document the process by which they were obtained.
+## Beginners Course to learn to use Python for applied analytics
+This course will use a combination of general and context specific lectures, in tandem with hands-on skills based labs to develop computing and programming skills in the Python language. No prior computing knowledge is required or expected. 
 
 ## Learning Goals
-- Understand the principles of computational reproducibility and their importance in research.
-- Improve coding readability and organization.
-- Practice defensive coding techniques to prevent and detect errors.
-- Learn to write and publish portable scripts for reproducible analysis across different systems.
+- Use Python to solve simple tasks and build simple functions
+- Understand coding loops, logic, and basic debugging
+- Load in and explore health data through Python (particularly using pandas)
+- Produce an analytic report that addresses a health policy issue using Python
+
 
 ## Materials
-All materials including slides and practice scripts can be found [here](https://github.com/sarahajones/KLIworkshop2025/tree/main), please adapt and credit to Sarah Ashcroft-Jones and Sofia Pelica accordingly. 
+All materials including slides and practice scripts can be found [here](https://github.com/sarahajones/python_materials/tree/main), please adapt and credit to Sarah Ashcroft-Jones accordingly. 
 
-## Did you find these resources helpful? Consider sharing them 🙌
+
+## Did you find this page helpful? Consider sharing it 🙌
