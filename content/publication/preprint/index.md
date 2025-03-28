@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "The persistence of cognitive biases in financial decisions across economic groups"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +17,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: While economic inequality continues to rise within countries, efforts to address it have been largely ineffective, particularly those involving behavioral approaches. It is often implied but not tested that choice patterns among low-income individuals may be a factor impeding behavioral interventions aimed at improving upward economic mobility. To test this, we assessed rates of ten cognitive biases across nearly 5000 participants from 27 countries. Our analyses were primarily focused on 1458 individuals that were either low-income adults or individuals who grew up in disadvantaged households but had above-average financial well-being as adults, known as positive deviants. Using discrete and complex models, we find evidence of no differences within or between groups or countries. We therefore conclude that choices impeded by cognitive biases alone cannot explain why some individuals do not experience upward economic mobility. Policies must combine both behavioral and structural interventions to improve financial well-being across populations.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using data from across 27 countries, we find evidence that choices impeded by cognitive biases alone cannot explain why some individuals do not experience upward economic mobility. Policies must combine both behavioral and structural interventions to improve financial well-being across populations.
 
 tags:
-- Large Language Models
+- Financial Decision Making
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://www.nature.com/articles/s41598-023-36339-2
+url_pdf: https://www.researchgate.net/publication/371871020_The_persistence_of_cognitive_biases_in_financial_decisions_across_economic_groups
+url_code: 'https://github.com/sarahajones/pos_dev_global_2'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](rawpixel.com)'
   focal_point: ""
   preview_only: false
 
@@ -59,13 +59,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
