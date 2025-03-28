@@ -120,11 +120,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: book
+      - name: Travel
         description: ''
         percent: 80
         icon: camera
@@ -148,13 +148,20 @@ awards:
     awarder: ASPP
     summary: |
       Learned a selection of advanced programming techniques and best practices which are standard in the industry, but especially tailored to the needs of a programming scientist. Topics included: Large-scale collaborative scientific code development with git and code forges, testing and debugging scientific code, scientific programming patterns in Python, and writing parallel applications in Python.
-  - title: Improving your Statistical Questions (and Inference)
+  - title: Improving your Statistical Questions
     url: https://www.coursera.org/learn/statistical-inferences
     date: '2020-01-01'
     awarder: Coursera
     icon: coursera
     summary: |
-      A pair of online courses designed to improve both inference and approach to statistical thinking. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
+      Online course designed to improve your approach to statistical thinking. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
+      - title: Improving your Statistical Inferences
+    url: https://www.coursera.org/learn/statistical-inferences
+    date: '2020-01-01'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Online course designed to improve both inferences in statistical analyses. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
 ---
 
 ## About Me
