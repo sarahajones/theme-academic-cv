@@ -3,7 +3,7 @@ title: "The persistence of cognitive biases in financial decisions across econom
 authors:
 - admin
 date: "2023-06-01T00:00:00Z"
-doi: " https://doi.org/10.1038/s41598-023-36339-2"
+doi: "10.1038/s41598-023-36339-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-28T00:00:00Z"
@@ -15,7 +15,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Nature Scientific Reports"
-publication_short: ""
+publication_short: "Scientific Reports"
 
 abstract: While economic inequality continues to rise within countries, efforts to address it have been largely ineffective, particularly those involving behavioral approaches. It is often implied but not tested that choice patterns among low-income individuals may be a factor impeding behavioral interventions aimed at improving upward economic mobility. To test this, we assessed rates of ten cognitive biases across nearly 5000 participants from 27 countries. Our analyses were primarily focused on 1458 individuals that were either low-income adults or individuals who grew up in disadvantaged households but had above-average financial well-being as adults, known as positive deviants. Using discrete and complex models, we find evidence of no differences within or between groups or countries. We therefore conclude that choices impeded by cognitive biases alone cannot explain why some individuals do not experience upward economic mobility. Policies must combine both behavioral and structural interventions to improve financial well-being across populations.
 

@@ -1,40 +1,36 @@
 ---
-title: 'An example conference paper'
+title: 'People in 26 countries prefer individual control to commercial or governmental control over online choice architectures'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-10-01T00:00:00Z'
+doi: '10.31219/osf.io/haqu9'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: OSF Preprint
+publication_short: Preprint
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Large online platforms design online environments that steer user attention, raising concerns about a loss of user agency, autonomy and even manipulation. Yet little is known about who users themselves think should control their online environments, and under what circumstances. In our preregistered study, participants across 26 countries (N = 11,686) decided between combinations of three possible choice architects-governments, platforms, and individuals-and three objectives-societal, commercial, and personal-in seven real-world contexts. Across all countries, people strongly prefer to set their own rules for their online choice architectures. Preferences for governmental or corporate choice architects are mediated by the political environment, context of the online choice architecture, and participants' political orientation. These findings stand in stark contrast to current practices and underscore the importance of incorporating user preferences into future regulations that govern online platforms, ensuring that they are more responsive to users' desire for autonomy and agency
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Participants across 26 countries (N = 11,686) decided between combinations of three possible choice architects-governments, platforms, and individuals-and three objectives-societal, commercial, and personal-in seven real-world contexts. Across all countries, people strongly prefer to set their own rules for their online choice architectures. 
 
 tags:
-  - Large Language Models
+  - Choice Architecture
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +40,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
+url_pdf: 'https://osf.io/preprints/osf/haqu9_v1'
+url_code: 'https://osf.io/ubwj7/files/osfstorage'
+url_dataset: 'https://osf.io/ubwj7/files/osfstorage'
+url_poster: 'https://scholar.google.com/scholar?oi=bibs&cluster=8577686007454769448&btnI=1&hl=en'
+url_project: 'https://osf.io/ubwj7'
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](freepik.com)'
   focal_point: ''
   preview_only: false
 
@@ -66,22 +62,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - internal-project
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
