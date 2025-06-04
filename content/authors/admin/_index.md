@@ -38,7 +38,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=CPplYAMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0002-8614-9310
+    url: https://orcid.org/0000-0002-8614-9310 
 
 interests:
   - Decision making
