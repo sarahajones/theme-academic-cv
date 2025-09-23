@@ -93,7 +93,8 @@ work:
     date_start: 2018-07-01
     date_end: ''
     summary: |2-
-      - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally. - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
+      - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally.
+      - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
   - position: Research Consultant
     company_name: SaverLife
     company_url: ''
@@ -141,7 +142,7 @@ skills:
       - name: MatLab
         description: ''
         percent: 80
-        icon: chart-line
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 50
@@ -156,7 +157,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Computational Models
+      - name: Comp Models
         description: ''
         percent: 70
         icon: code-bracket
@@ -171,7 +172,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: fa-book
+        icon: book-simple
       - name: Photography
         description: ''
         percent: 70
@@ -218,14 +219,12 @@ awards:
     url: https://www.coursera.org/learn/statistical-inferences
     date: '2020-01-01'
     awarder: Coursera
-    icon: coursera
     summary: |
       Online course designed to improve your approach to statistical thinking. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
   - title: Certificate in Improving your Statistical Inferences
     url: https://www.coursera.org/learn/statistical-inferences
     date: '2020-01-01'
     awarder: Coursera
-    icon: coursera
     summary: |
       Online course designed to improve both inferences in statistical analyses. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
 ---
