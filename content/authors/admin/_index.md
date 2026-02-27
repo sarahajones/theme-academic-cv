@@ -95,17 +95,6 @@ work:
     summary: |2-
       - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally.
       - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
-  - position: Research Consultant
-    company_name: SaverLife
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: '2025-01-01'
-    summary: |2-
-      - Exploring the relationship between fintech product usage and financial well-being to brief.
-      - Leveraging statistical programming to produce re-usable scripts and data analytic reports.
-      - Responsible for merging datasets, running statistical analyses, and exploring patterns over time.
-  - position: Research Consultant
     company_name: World Bank Group - Mind, Behavior & Development Unit
     company_url: ''
     company_logo: ''
