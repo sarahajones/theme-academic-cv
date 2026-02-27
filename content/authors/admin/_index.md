@@ -95,6 +95,7 @@ work:
     summary: |2-
       - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally.
       - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
+  - position: Research Consultant
     company_name: World Bank Group - Mind, Behavior & Development Unit
     company_url: ''
     company_logo: ''
