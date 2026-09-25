@@ -41,16 +41,17 @@ profiles:
     url: https://orcid.org/0000-0002-8614-9310 
 
 interests:
-  - Decision making
-  - Decision confidence
-  - Behavioural interventions
+  - Financial cognition
+  - AI-mediated decision-making
+  - Metacognition
+  - Cross-national behavioral variation
   - Open science
 
 education:
   - area: PhD in Experimental Psychology
     institution: Oxford University
     date_start: 2019-10-01
-    date_end: 2023-10-31
+    date_end: 2023-11-01
     summary: |
       Thesis on metacognitive decision confidence in categorisation tasks. Supervised by [Prof Nick Yeung](https://www.oxacclab.org/). 
     button:
@@ -80,21 +81,48 @@ work:
     company_name: Columbia University Mailman School of Public Health
     company_url: ''
     company_logo: ''
-    date_start: 2023-11-15
+    date_start: 2025-02-01
     date_end: ''
     summary: |2-
-      - Researching the individual and structural factors that influence financial and health behaviours.
-      - Responsibilities include research design, quantitative analytics, and statistical programming.
-      - Working with community health stakeholders, policy advisors, and interdisciplinary research groups.
+      - Lead research on how digital and AI-mediated systems influence real-world financial decisions.
+      - Design and analyze large-scale observational and experimental studies in R and Python.
+      - Co-develop and evaluate applied interventions, including AI-assisted savings support and chatbot-based behavioral interventions with external partners.
+  - position: Postdoctoral Researcher
+    company_name: Columbia University Mailman School of Public Health
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-11-15
+    date_end: '2025-02-01'
+    summary: |2-
+      - Designed and executed behavioral science studies on financial and health behaviors, combining experimental methods, survey research, and quantitative analysis.
+      - Investigated how individual and structural factors shape decision-making under uncertainty.
   - position: Executive Director
     company_name: Junior Researcher Programme
     company_url: ''
     company_logo: ''
-    date_start: 2018-07-01
+    date_start: 2019-10-01
     date_end: ''
     summary: |2-
       - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally.
       - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
+      position: Director of Sustainability & Strategy
+    company_name: Framework for Open and Reproducible Research Training (FORRT)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: ''
+    summary: |2-
+      - Strategic reimagining of open science infrastructure via multi-stakeholder governance models.
+      - Structuring a multi-layer funding pipeline to ensure sustainable growth of community research.
+  - position: Research Associate
+    company_name: Centre for Business Research, Cambridge Judge Business School
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: ''
+    summary: |2-
+      - Organise annual international behavioural research projects spanning multiple countries.
+      - Coordinate a three-week research stay for almost 40 researchers.
   - position: Research Consultant
     company_name: World Bank Group - Mind, Behavior & Development Unit
     company_url: ''
@@ -112,7 +140,7 @@ work:
     date_start: 2017-08-01
     date_end: '2018-09-01'
     summary: |2-
-      - Awarded a 14 month scholarship - the Baden-W¨urttemberg Stipendium - to conduct research.
+      - Awarded a 14-month scholarship, the Baden-Württemberg Stipendium, to conduct research.
       - Leveraged physiological data including heart rate, galvanic skin conductance, and salivary cortisol.
       - Collected fMRI neuro-feedback data and co-authored related publication.
 
@@ -123,57 +151,70 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        percent: 70
         icon: code-bracket
       - name: R
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
       - name: MatLab
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: SQL
+      - name: JavaScript
         description: ''
-        percent: 50
-        icon: circle-stack
-  - name: Technical Skills
+        percent: 70
+        icon: code-bracket
+      - name: HTML
+        description: ''
+        percent: 70
+        icon: code-bracket
+      - name: CSS
+        description: ''
+        percent: 70
+        icon: code-bracket
+  - name: Software & Tools
     items:
-      - name: Data Analysis
+      - name: LaTeX
         description: ''
-        percent: 80
-        icon: circle-stack
-      - name: Data Visualisation
+        percent: 70
+        icon: document-text
+      - name: RMarkdown
         description: ''
-        percent: 100
+        percent: 70
+        icon: document-text
+      - name: JASP
+        description: ''
+        percent: 70
         icon: chart-bar
-      - name: Comp Models
+      - name: Tableau
         description: ''
         percent: 70
-        icon: code-bracket
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Travel
-        description: ''
-        percent: 90
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: book-simple
-      - name: Photography
+        icon: chart-bar
+      - name: SPSS
         description: ''
         percent: 70
-        icon: camera
+        icon: chart-bar
+      - name: NVivo
+        description: ''
+        percent: 70
+        icon: circle-stack
+      - name: ATLAS
+        description: ''
+        percent: 70
+        icon: circle-stack
+
 
 languages:
   - name: English
     percent: 100
+  - name: Irish
+    percent: 85
   - name: German
-    percent: 75
+    percent: 50
   - name: French
+    percent: 25
+  - name: Japanese
     percent: 25
 
 # Awards.
@@ -181,44 +222,44 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Poster - Summer Institute on Bounded Rationality
+  - title: 'Award: Best Poster, Summer Institute on Bounded Rationality'
     url: https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality/summer-institute
     date: '2025-06-17'
     awarder: Max Planck Insitute for Human Development
     summary: |
-      The Summer Institute on Bounded Rationality brings together talented early-career researchers and renowned scientists from around the globe and aims to spark a dialogue about decision making under the real-world constraints of limited time, information, and computational power. The program covers the fundamentals, methodology, and recent findings on bounded rationality. The 2025 Summer Institute approached the digital world through the lens of bounded rationality and interdisciplinary research on human decision making..
-  - title: Certificate in Advanced Scientific Programming in Python
+      The Summer Institute on Bounded Rationality brings together talented early-career researchers and renowned scientists from around the globe and aims to spark a dialogue about decision making under the real-world constraints of limited time, information, and computational power. The program covers the fundamentals, methodology, and recent findings on bounded rationality. The 2025 Summer Institute approached the digital world through the lens of bounded rationality and interdisciplinary research on human decision making.
+  - title: 'Certificate: Advanced Scientific Programming in Python'
     url: https://aspp.school/start
     date: '2024-08-25'
     awarder: ASPP
     summary: |
       Learned a selection of advanced programming techniques and best practices which are standard in the industry, but especially tailored to the needs of a programming scientist. Topics included: Large-scale collaborative scientific code development with git and code forges, testing and debugging scientific code, scientific programming patterns in Python, and writing parallel applications in Python.
-  - title: Certificate in Bayesian Analysis for the Social and Behavioural Sciences
+  - title: 'Certificate: Bayesian Analysis for the Social and Behavioural Sciences'
     url: https://essexsummerschool.com/courses/ess-2025-course-list/2t-bayesian-analysis/
     date: '2022-07-01'
     awarder: Essex Summer School (ESS) in Social Science Data Analysis
     summary: |
       Explored the theory behind Bayesian data analysis, and common models in the social sciences, like t tests, ANOVA, and regression. Advanced to more complicated models such as Markov Chain Monte Carlo (MCMC) methods, which give Bayesian methods their immense flexibility and power. Explored tools to fit a wide variety of models easily, through the use of the JAGS and stan software.
-  - title: Distinction in SysMIC Module 1
+  - title: 'Certificate: Distinction in SysMIC Module 1'
     url: https://sysmic.ac.uk/
     date: '2021-10-01'
     awarder: SysMIC
     summary: |
       Modules 1 consisted of a series of units based around biological examples which are supported with mathematical background reading: The examples show how the maths techniques can be used to model and analyse biological systems, with code examples of computer programming. Learnt hands-on coding using MATLAB for function handling and modelling and R for doing statistics. An extensive mathematical background section is included. 
-  - title: Certificate in Improving your Statistical Questions
+  - title: 'Certificate: Improving your Statistical Questions'
     url: https://www.coursera.org/learn/statistical-inferences
     date: '2020-01-01'
     awarder: Coursera
     summary: |
       Online course designed to improve your approach to statistical thinking. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
-  - title: Certificate in Improving your Statistical Inferences
+  - title: 'Certificate: Improving your Statistical Inferences'
     url: https://www.coursera.org/learn/statistical-inferences
     date: '2020-01-01'
     awarder: Coursera
     summary: |
-      Online course designed to improve both inferences in statistical analyses. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.   
----
+      Online course designed to improve both inferences in statistical analyses. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.
 
 ## About Me
 
-Sarah Ashcroft-Jones is a researcher of the psychological and behavioural sciences at the Columbia University Mailman School of Public Health. Her research interests include decision making, categorisation, and cognitive biases. Her current work focuses on understanding the individual and structural factors that influence financial and health behaviours. She leads the Junior Researcher Programme, which develops opportunities for early career researchers in the psychological and behavioural sciences. She likes to ask questions.    
+Sarah Ashcroft-Jones is a behavioral and cognitive decision scientist at the Columbia University Mailman School of Public Health, where she studies how people make financial and health decisions and how AI-mediated systems are reshaping that process. Her work spans judgment under uncertainty, metacognition, and cross-national behavioral variation. She directs the Junior Researcher Programme, a global research network for early-career scientists, and serves as Director of Sustainability and Strategy at FORRT. She likes to ask questions.
+

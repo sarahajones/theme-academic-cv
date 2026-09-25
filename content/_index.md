@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2026-09-25
 type: landing
 
 design:
@@ -35,11 +35,13 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I like to ask questions.
-        
-        I am a research scientist at Columbia University Mailman School of Public Health. My work focuses on understanding the individual and structural factors that influence financial and health behaviours. Alongside my research, I act as an educator and a research consultant. I also volunteer my time as the Executive Director of the JRP.  
-        
-        My current active research projects range from the computational modelling of confidence in decision-making to testing real-time interventions on vaccine uptake and financial behaviours. I am an advocate of Open Science practices.
+        My research asks how people make decisions and applies this question to financial and health decisions. I am interested in how people use the information available to them, and how the environments they're in, including increasingly AI-mediated ones, shape those choices over time.
+
+        This spans several connected threads: the cognitive mechanisms behind confidence and categorisation judgements, the persistence of financial cognitive biases across economic groups, how digital and AI-mediated systems influence real-world financial behaviour, and how these patterns vary across cultures and countries.
+
+        My current research examines how income and assets can shape financial wellbeing, including work showing that cognitive biases in financial decisions persist across economic groups. A related line looks at subjective financial strain, rather than poverty-line status alone, as a driver of financial decision-making and temporal discounting. I also study confidence in decision-making, building on my doctoral research on metacognitive confidence in categorisation judgements. At Columbia, I lead work on the role of AI as a behavioural intervention tool, co-developing and evaluating AI-assisted savings support and chatbot-based interventions with external partners. This applied lens extends to health decisions as well, including analyses of a flu vaccination text-message intervention and appointment no-show rates.
+
+        Alongside this, I direct the Junior Researcher Programme, coordinating large-scale multinational behavioural science studies across 20+ countries, and I'm an advocate for open science practices throughout my work.
     design:
       columns: '1'
   - block: collection
