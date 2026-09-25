@@ -1,0 +1,287 @@
+---
+title: 'Money buys mental health: A multidimensional analysis of social, financial,
+  and emotional well-being in 92 countries'
+authors:
+- Kai Ruggeri
+- Guillermo Valenzuela-Catarí
+- Elli Polemiti
+- Galla Abderahaman
+- Taha R. Adawi
+- Talar Agopian
+- Deena Al-Dhahli
+- Ali H. Al-Hoorie
+- Rami Al-Sharif
+- Narjes Al-Zahli
+- Amani AlAmeeri
+- Fawziah Alammar
+- Habib Mohammad Ali
+- Taif Aljaberi
+- Sami M. Almahjoob
+- Qais Ibrahim AlMeqdad
+- Sama Alsewaidi
+- Mohammed Amara
+- Marcelo Amaral Mali
+- Hansika Ambahelagedara
+- Rizwana Amin
+- Srinaath Anbu Durai
+- Thomas Lind Andersen
+- Joel Anderson
+- Jack Andrews
+- Marijn Antens
+- Tamara Arh
+- David Santson Ayebare
+- Tsend-Ayush Azjargal
+- Peter Baguma
+- Martin Mabunda Baluku
+- Paula Barea-Arroyo
+- Federico Barrera-Lemarchand
+- Alain Belahimi
+- Martina Benvenuti
+- Elisa Berdica
+- Frida Berglund
+- Jana B. Berkessel
+- Goni Biran
+- Ludvig Daae Bjørndal
+- Lana Bojanić
+- Nicolas Brandao
+- Eike Kofi Buabang
+- Matthias Burghart
+- Aslı Bursalıoğlu
+- Vladimíra Čavojová
+- Ana-Maria Cazan
+- Diadora Cërmjani
+- Apitchaya Chaiwutikornwanich
+- Kai Qin Chan
+- Shiyi Chen
+- Magdalena Chorzępa
+- Luis Sebastian Contreras-Huerta
+- Éloïse Côté
+- Hojjat Daniali
+- Naomi G. Daniel
+- Abdülhakim Bahadır Darı
+- Arobindu Dash
+- Ismahan Soukeyna Diop
+- Tamara Đokić
+- Vladyslav Dombrovskyi
+- Jasmin Dönicke
+- Barbora Doubravová
+- Eva Dreyfus
+- Tatianna Dugue
+- Ksenija Edelinski
+- Bantu Edward
+- Rita W. El-Haddad
+- Esther Awazzi Envuladu
+- Thorsten Michael Erle
+- Hadia Fakhreldin
+- Eman Farahat
+- Ingeborg Farver-Vestergaard
+- Angelina Fauma
+- Silvia Filippi
+- Lucia Freira
+- Andrea Freire-Pesántez
+- Albina Gallyamova
+- Ziwei Gao
+- Saule Gazizova
+- Bamlak Cherinet
+- Sandra Jeanette Geiger
+- Biljana Gjoneska
+- Anastasia Gracheva
+- Ani Grigoryan
+- Dmitry Grigoryev
+- Silvia Guillén-Marín
+- Deniz Mısra Gürol
+- Srećko Gutić
+- Abakar M. Habsita
+- Stavros P. Hadjisolomou
+- Ali Hajian
+- Anna Hakobjanyan
+- Julia G. Halilova
+- Abdul Haseeb Hassan
+- Georgina Haspel
+- William Haspel
+- Merle Havik
+- Marlene Hecht
+- Wen-Tso Ho
+- Elham Hossain
+- HsinPing Hsu
+- Enma Tereza Huaman
+- Alexander G. F. Ikonomeas
+- David Izydorczyk
+- Lea Jakob
+- Hannes Jarke
+- Dyana Chusnulitta Jatnika
+- Maria Ali Jawad
+- Gesine Jordan
+- Kamolidin Batirovich Kadirov
+- ' Zebuniso'
+- Lenka Kalezić
+- Lada Kaliska
+- Ralitsa Karakasheva
+- David Kasdan
+- kaltrina kelmendi
+- Narine Khachatryan
+- Elena Kim
+- Anneloes Kip
+- Desislava Kirilova Kirilova
+- Pál Kolumbán
+- Elizaveta Komyaginskaya
+- Kenn Konstabel
+- Daina Kosīte
+- Nato Lagidze
+- Jasmine Le
+- Cheuk Yee Lee
+- Zan Lep
+- Guiquan Li
+- Zerong Liu
+- Johanna Löloff
+- Claudio López-Calle
+- Fiorella Macchiavello
+- Metasebiya A. Mamo
+- Filipe de Neri Machado
+- Tiziana Maria Mahayri
+- Silvana Mareva
+- Khatuna Martskvishvili
+- Mafalda F. Mascarenhas
+- Žiga Mekiš Recek
+- Nisma Merdad
+- Sebastian A. Meyer
+- Samson Mhizha
+- Rania Miniesy
+- Melika Miralem
+- Katarina Mišetić
+- Amina Mohammed
+- Fredy S. Monge Rodríguez
+- Edmundo Monteiro
+- Moussa Ali Mahamat
+- Nozima Mullabaeva
+- Erica Munnik
+- Atheer Musad
+- Ledion Musaj
+- Asel Myrzabekova
+- Joaquin Navajas
+- Cristina Navarro
+- Dieynaba Gadrielle Ndiaye
+- Elena Niehoff
+- Alex Ojeda Copa
+- J. A. Olmos Aguilar
+- Rafaella Osores Urday
+- Sebnem Ozdemir
+- Konstantinos Papachristopoulos
+- Joonha Park
+- Daria Stefania Pascu
+- Jeanet Pérez Rodríguez
+- Gerit Pfuhl
+- Katarina Pižurica
+- Sara Plakolm Erlač
+- Victoria Plămădeală
+- Naya Polychroni
+- Ivona Popović
+- Gerhard Prinz
+- Maksymilian Pyrkowski
+- Otgonbayar Radnaa
+- Mette Ranta
+- Nagireddy Neelakanteswar Reddy
+- Amanda Remsö
+- Nirvana Ribić
+- Gordana Ristevska Dimitrovska
+- Ana Maria Rocha
+- Valério Souza-Neto
+- F. Rojas-Thomas
+- Abigail Roque Miranda
+- Charlotte S. L. Rossetti
+- Binhayati Rusyidi
+- Nina Šafranko
+- Fatima Zahra SAHLI
+- Rand Said
+- Ivaylo Sakelariev
+- Sandimampita Razafimbola
+- Sergiu Sanduleac
+- Lourdes V. Santos
+- Ibraheem Sanusi
+- Petra Šarić
+- Ahmet Kerem Sarikaya
+- Mohammad Sartawi
+- Jakob Schuck
+- Marija Sekulović
+- Mariam Shavgulidze
+- Zubaida Shebani
+- Mirna Karim Shokry
+- Shumetha K. Sidhu
+- Elisabeth D. C. Sievert
+- Yasmin Silane
+- Liene Sile
+- Susana Silva Mostajo
+- Divita Singh
+- Philippe Sloksnath
+- Irina Soboleva
+- Francisco Leonardo Soler-Anguiano
+- Meeval Soorej
+- Florencia Maria Sortheix
+- Jakub Šrol
+- Gerard Martin C. Suarez
+- Dhanya Sunil Subhas
+- Ruiqing Sun
+- Felicia Sundström
+- Barnabas Szaszi
+- BENJAMIN MIRANDA TABAK
+- Carmit Tadmor
+- Felice Tavera
+- Demetris Taliadoros
+- Anna-Lena Tebbe
+- Tengku Amatullah Madeehah T. Mohd
+- Habib Tiliouine
+- Shane Timmons
+- Filippo Toscano
+- Maria Towns
+- Vidit Megan
+- Camelia Truța
+- Solongo Tsogt
+- Alexander Tudose
+- Jaan Tulviste
+- Markus R. Tünte
+- Reginald G. Ugaddan
+- Fitim Uka
+- Volodymyr Vakhitov
+- Tom Van Daele
+- Edmunds Vanags
+- Cecilia Vezzani
+- Yufan Wang
+- Yodit Kifle Wolde
+- Ruohan Xu
+- Rosliza Yahaya
+- Yuki Yamada
+- Fikret Yetkin
+- Skerdi Zahaj
+- Nataliia Zaika
+- Mirela Zaneva
+- Angel C. Zegarra-López
+- Ashenafi Zelalem
+- Yiyong Zhou
+- Eszter Zilahi
+- Zoakah Joy Hyelni
+- Aysha Zummer
+- Lucía Macchia
+- Sarah Ashcroft-Jones
+- Sofia Pelica
+date: '2026-03-11'
+publishDate: '2026-09-25T22:08:13.150697Z'
+publication_types:
+- article-journal
+doi: 10.31234/osf.io/3jyda_v2
+abstract: Governments and organizations now increasingly endorse the importance of
+  mental health in all forms of policy, though emphasis in measurement still remains
+  on indicators such as GDP, depression, and other common disorders. In this study
+  of 92 countries (n = 53,774), we assess the mental health of individuals around
+  the world alongside measures of financial and social well-being. Findings include
+  a trend of languishing mental health across many groups, particularly among younger
+  adults and within higher-income countries. While positive trends are observed for
+  education and income, a number of concerning trends also emerge, particularly the
+  loss of the U-shape for age and generally moderate results for employed individuals.
+  In sum, we find an alarming but perhaps unsurprisingly low level of positive mental
+  health in a substantial number of countries, but also identify specific economic,
+  social, and other indicators that policymakers could target in improving the well-being
+  of the populations they serve.
+links:
+- name: URL
+  url: https://eprints.gla.ac.uk/374799/
+---
