@@ -105,7 +105,7 @@ work:
     summary: |2-
       - Leading the JRP Team to create opportunities and collaborations within the psychological sciences for ECRs and students globally.
       - Facilitating projects on impactful research themes with an emphasis on open and generalisable science.
-      position: Director of Sustainability & Strategy
+  - position: Director of Sustainability & Strategy
     company_name: Framework for Open and Reproducible Research Training (FORRT)
     company_url: ''
     company_logo: ''
@@ -258,8 +258,7 @@ awards:
     awarder: Coursera
     summary: |
       Online course designed to improve both inferences in statistical analyses. Produced by TU/e Technical University Eindhoven instructed by Daniel Lakens.
-
+---
 ## About Me
 
 Sarah Ashcroft-Jones is a behavioral and cognitive decision scientist at the Columbia University Mailman School of Public Health, where she studies how people make financial and health decisions and how AI-mediated systems are reshaping that process. Her work spans judgment under uncertainty, metacognition, and cross-national behavioral variation. She directs the Junior Researcher Programme, a global research network for early-career scientists, and serves as Director of Sustainability and Strategy at FORRT. She likes to ask questions.
-
