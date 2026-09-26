@@ -18,7 +18,7 @@ abstract: 'Human mobility plays a crucial role in shaping outcomes such as disea
   and mobility patterns during a recent, near-universal shift in human behavior: the
   COVID-19 pandemic in New York City. We surveyed N = 1049 residents capturing three
   key decision-making preferences: temporal discounting, loss aversion, and agency.
-  In tandem, population mobility in 2020 was measured for six different “place” categories
+  In tandem, population mobility in 2020 was measured for six different "place" categories
   (grocery stores/pharmacies, general retail, arts/entertainment, restaurants/bars,
   education, healthcare) using mobile phone-derived foot-traffic data. The results
   indicate that decision agency and choice preferences were significantly correlated
@@ -27,13 +27,7 @@ abstract: 'Human mobility plays a crucial role in shaping outcomes such as disea
   predictive power of the scores via out-of-sample predictions using Random Forest
   models. The results underscore the importance of capturing these behavioral mechanisms
   in public health intervention strategies and policy.'
-links:
-- name: URL
-  url: https://www.medrxiv.org/content/10.1101/2025.09.08.25335351v1
-
-
-  featured: true
-
+featured: true
 links:
 - name: Custom Link
   url: 'https://www.medrxiv.org/content/10.1101/2025.09.08.25335351v1'
@@ -49,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](Claude)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -58,8 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
