@@ -1,6 +1,5 @@
 ---
-title: The psychology and policy of overcoming economic inequality textbar Behavioral
-  and Brain Sciences textbar Cambridge Core
+title: The psychology and policy of overcoming economic inequality
 authors:
 - Kai Ruggeri
 - Olivia Symone Tutuska
