@@ -6,7 +6,7 @@ authors:
 - Eike K Buabang
 - Kai Ruggeri
 date: '2026-09-21'
-publishDate: '2026-09-25T22:08:13.180215Z'
+publishDate: '2026-09-23'
 publication_types:
 - manuscript
 publication: '*PsyArXiv*'
@@ -39,4 +39,45 @@ tags:
 links:
 - name: URL
   url: https://osf.io/preprints/psyarxiv/vkfhp_v1/
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://osf.io/preprints/psyarxiv/vkfhp_v1/'
+url_code: 'https://osf.io/4x6q3/files/osfstorage'
+url_dataset: 'https://osf.io/4x6q3/files/osfstorage'
+url_poster: ''
+url_project: 'https://osf.io/4x6q3'
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](Generated using Claude)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - internal-project
+
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 ---
+
