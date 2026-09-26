@@ -7,7 +7,7 @@ authors:
 - Sen Pei
 - Kai Ruggeri
 date: '2025-09-12'
-publishDate: '2026-09-25T22:08:13.172599Z'
+publishDate: '2025-09-12'
 publication_types:
 - manuscript
 publication: '*medRxiv*'
@@ -30,4 +30,41 @@ abstract: 'Human mobility plays a crucial role in shaping outcomes such as disea
 links:
 - name: URL
   url: https://www.medrxiv.org/content/10.1101/2025.09.08.25335351v1
+
+
+  featured: true
+
+links:
+- name: Custom Link
+  url: 'https://www.medrxiv.org/content/10.1101/2025.09.08.25335351v1'
+url_pdf: 'https://www.medrxiv.org/content/10.1101/2025.09.08.25335351v1'
+url_code: 'https://github.com/Qing1011/behaviours_epidemics/tree/main/R_codes'
+url_dataset: 'https://github.com/Qing1011/behaviours_epidemics/tree/main/data'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](Claude)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 ---
